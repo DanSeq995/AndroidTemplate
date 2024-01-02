@@ -8,11 +8,11 @@ plugins {
 }
 
 android {
-    namespace 'it.dsequino.bitdrome.template'
+    namespace 'it.dsequino.apitest'
     compileSdk 33
 
     defaultConfig {
-        applicationId "it.dsequino.bitdrome.template"
+        applicationId "it.dsequino.apitest"
         minSdk 24
         targetSdk 33
         versionCode 1
